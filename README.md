@@ -1,7 +1,4 @@
-# Open Source Content for Google Data Studio
-
-This repository contains open source content for [Google Data
-Studio](https://datastudio.google.com).
+# Clear Labs Google Data Studio Connector
 
 ## Community Connectors
 
@@ -13,21 +10,6 @@ let users fetch data from external sources into their Data Studio dashboards.
 The majority of open sourced Community Connectors have been deployed so that you
 can try them out in Data Studio. The deployments are managed by the Data Studio
 Developer Relations team and use the latest code for each Community Connector.
-
-List of available open source Community Connectors in this repository:
-
-- [npm Downloads](/npm-downloads)
-    - *Get npm package download counts.*
-    - [try the npm Downloads connector in Data
-      Studio](https://datastudio.google.com/datasources/create?connectorId=AKfycbzRfJ2ofuhRGSEcnvItW8YXY9AClE6TqDNDqyk6_510kSJK8n32Q9LeFA)
-- [Fusion Tables](/fusion-tables)
-    - *Import your Fusion Tables into Data Studio.*
-    - [try the Fusion Tables connector in Data
-      Studio](https://datastudio.google.com/datasources/create?connectorId=AKfycbz-CKzYQ8FWpAzHtJBT1SlVBH0cnEiQBclqyrxfU8sgdrmaPnk0iWLbRA)
-- [Stack Overflow Questions](/stackoverflow-questions)
-    - *Get Stack Overflow questions and relevant metadata by tag.*
-    - [try the connector Stack Overflow Questions in Data
-      Studio](https://datastudio.google.com/datasources/create?connectorId=AKfycbwGMj-oe532y-NEbMHo-KLUCEz0EEGOZj-3lhEgw7q65-hs-T_F9B3Qjw)
 
 ### Other open source Community Connectors
 
